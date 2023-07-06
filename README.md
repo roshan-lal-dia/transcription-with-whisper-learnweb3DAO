@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Transcription with Whisper
 
+### UI improvements needed to be added after learning react and tailwind
+
 ## Getting Started
 
 First, run the development server:
